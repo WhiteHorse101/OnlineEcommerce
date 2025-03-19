@@ -36,6 +36,32 @@ This project automates **customer behavior analysis, seasonal sales trends detec
 
 ---
 
+## 📌 Project Objectives
+
+Before starting the implementation, it’s important to clearly define what this project aims to achieve:
+
+1️⃣ Customer Journey Analysis & Funnel Drop-Off Rate
+
+Track customer purchase patterns to distinguish between repeat vs. one-time buyers.
+Identify where customers drop off in the buying journey (churn detection).
+Measure customer retention rates and understand churn behavior.
+
+
+2️⃣ Identifying Seasonal & Holiday Shopping Trends
+
+Detect peak sales periods (monthly, weekly, hourly analysis).
+Identify top-selling products in different time periods.
+Compare sales during holiday seasons vs. normal periods.
+
+
+3️⃣ Market Basket Analysis (Product Recommendation System)
+
+Identify frequently bought-together products using association rule mining.
+Generate product bundling strategies for better cross-selling.
+Optimize customer recommendations based on previous purchase behaviors.
+
+---
+
 ## 📌 Future Improvements 🚀
 - Implement **real-time customer segmentation using Spark Streaming**.
 - Use **Deep Learning models for advanced customer churn prediction**.
