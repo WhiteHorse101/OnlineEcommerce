@@ -1,0 +1,29 @@
+# Core Libraries
+pandas
+numpy
+scipy
+
+# Big Data Processing
+pyspark
+
+# Machine Learning
+mlxtend
+scikit-learn
+
+# Databases & Storage
+sqlalchemy
+pymongo
+psycopg2-binary  # For PostgreSQL
+
+# Cloud Integration (Optional)
+boto3  # AWS S3
+google-cloud-storage  # Google Cloud Storage
+azure-storage-blob  # Azure Blob Storage
+
+# Automation & Scheduling
+apache-airflow
+
+# Data Visualization (Optional)
+matplotlib
+seaborn
+plotly
