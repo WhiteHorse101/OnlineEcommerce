@@ -16,7 +16,7 @@ sql_pass     = os.getenv("AZURE_SQL_PASSWORD")  # your SQL admin password
 if not all([account_key, sql_url, sql_user, sql_pass]):
     raise ValueError("Missing one or more required environment variables")
 
-print("🛠️  Starting DB Loader script")
+print("Starting DB Loader script")
 
 # 2. Initialize SparkSession with Azure Blob and JDBC driver packages
 spark = SparkSession.builder \
